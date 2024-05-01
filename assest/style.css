@@ -1,0 +1,114 @@
+
+.navbar-toggler{
+   background-color: aliceblue;
+}
+
+.bg-body-tertiary{
+    background-color: rgb(34, 49, 63) !important; 
+}
+
+.navbar-brand{
+    color: white;
+    text-decoration: none;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-link{
+    color: aliceblue;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container-fluid{
+    
+    margin-left: 100px;
+    display: flex;
+}
+
+.navbar-collapse{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    align-items: center;
+
+}
+
+.text-white{
+    display: flex;
+    justify-content: center;
+    height: 330px;
+    padding: 50px;
+}
+.text-center{
+    justify-content: center;
+   margin-top: 20px;
+}
+.section1 p{
+   display: flex;
+   justify-content: center;
+   margin-left: 270px;
+   margin-right: 250px;
+}
+.section1 ul{
+    
+  justify-content: center;
+  margin-left:  270px; 
+  margin-right: 100px;
+}
+.section1 h2{
+    display: flex;
+    margin-left: 270px;
+   
+}
+.section1{
+    margin-top: 200px;
+}
+
+.section2 h2{
+    display: flex;
+    margin-left: 270px;
+}
+.section2 p{
+    display: flex;
+    justify-content: center;
+    margin-left: 270px;
+    margin-right: 170px;
+}
+.section2{
+    margin-top: 200px;
+    background-color: rgb(248 249 250);
+}
+
+.section3 h2{
+    display: flex;
+    margin-left: 270px;
+}
+.section3{
+    margin-top: 200px;
+}
+.section3 p{
+    display: flex;
+    justify-content: center;
+    margin-left: 270px;
+    margin-right: 170px;
+}
+
+.bg-dark p{
+    color: aliceblue;
+    text-align: center;
+   
+}
+.bg-dark{
+    margin-top: 200px;
+}
+
+
+
+
+
+
+
+
+
+   
+  
